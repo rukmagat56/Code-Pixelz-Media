@@ -1,0 +1,332 @@
+/*
+
+Theme Name: Divi Child Theme
+
+Theme URI: https://divireadythemes.com/
+
+Description: Divi Child Theme
+
+Author: Divi Ready Themes
+
+Author URI: https://divireadythemes.com/
+
+Template: Divi
+
+Version: Updated for Divi 3+
+
+*/
+
+
+
+
+
+
+
+/*------------------------------------------------*/
+
+/*-------------------[GENERAL]--------------------*/
+
+/*------------------------------------------------*/
+
+
+
+.block {
+
+    display: block;
+
+}
+
+
+
+.flex {
+
+    display: flex;
+
+}
+
+
+
+.flex-column {
+
+    flex-direction: column;
+
+}
+
+
+
+.justify-center {
+
+    justify-content: center;
+
+}
+
+
+
+.justify-space-between {
+
+    justify-content: space-between;
+
+}
+
+
+
+.align-center {
+
+    align-items: center;
+
+}
+
+
+
+.width-fit-content {
+
+    width: fit-content !important;
+
+}
+
+
+
+.width-100 {
+
+    width: 100%;
+
+}
+
+
+
+.margin-bottom-0 {
+
+    margin-bottom: 0;
+
+}
+
+
+
+.vertical-center {
+
+    display: flex;
+
+    align-items: center;
+
+}
+
+
+
+/* Change Rubik font-weight for Regular */
+
+.rubik-regular, .rubik-regular h3 {
+
+	font-weight: 400;
+
+}
+
+
+
+/* Change input placeholder text opacity */
+
+input.et_pb_s::placeholder {
+
+    opacity: 1;
+
+}
+
+
+
+
+
+/*------------------------------------------------*/
+
+/*-----------------[HEADER-MENU]------------------*/
+
+/*------------------------------------------------*/
+
+
+
+
+
+/*------------------------------------------------*/
+
+/*------------------[HOMEPAGE]--------------------*/
+
+/*------------------------------------------------*/
+
+
+
+.hero-section {
+
+    display: flex;
+
+    flex-direction: column;
+
+}
+
+
+
+.hero-row-top {
+
+    margin-bottom: 0;
+
+}
+
+
+
+.hero-row-bottom {
+
+    margin-top: 0;
+
+}
+
+
+
+.home-search-row {
+
+    justify-content: space-between;
+
+    align-items: center;
+
+}
+
+
+
+.home-search-column {
+
+    width: fit-content !important;
+
+}
+
+
+
+.header-search-select select {
+
+    font-family: 'Rubik',Helvetica,Arial,Lucida,sans-serif;
+
+    font-size: 14px;
+
+    width: 250px;
+
+    color: #727272;
+
+    padding: 10px;
+
+    border: .5px solid #2A4451;
+
+}
+
+
+
+.home-search-text h4 {
+
+    padding-bottom: 0;
+
+}
+
+
+
+.welcome-column-text {
+
+    display: flex;
+
+    flex-direction: column;
+
+    justify-content: space-between;
+
+}
+
+
+
+.hover-text p:hover {
+
+	text-decoration: underline;
+
+	cursor: pointer;
+
+}
+
+
+
+/*------------------------------------------------*/
+
+/*------------------[SUBPAGES]--------------------*/
+
+/*------------------------------------------------*/
+
+
+
+
+
+/*------------------------------------------------*/
+
+/*-------------------[Footer]---------------------*/
+
+/*------------------------------------------------*/
+
+
+
+.footer-search-row {
+
+    justify-content: space-between;
+
+}
+
+
+
+
+
+.footer-menu-column {
+
+    margin-right: 80px !important;
+
+}
+
+
+
+#menu-footer-menu-1, #menu-footer-menu-2 {
+
+    display: block;
+
+}
+
+
+
+.footer-menu .et-menu li {
+
+    display: block;
+
+    width: 100%;
+
+}
+
+
+
+/*------------------------------------------------*/
+
+/*--------------------[RWD]-----------------------*/
+
+/*------------------------------------------------*/
+
+
+
+
+
+/*------------------------------------------------*/
+
+/*------------------------------------------------*/
+
+/*------------------------------------------------*/
+
+/*--[ADD TUTORIAL CUSTOMIZATION BELOW THIS LINE]--*/
+
+/*------------------------------------------------*/
+
+/*------------------------------------------------*/
+
+/*------------------------------------------------*/
+
+
+
+
+
+
+
+
+
